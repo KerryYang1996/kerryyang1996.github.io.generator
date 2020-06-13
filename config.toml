@@ -1,0 +1,4 @@
+baseURL = "http://kerryyang1996.github.io/"
+languageCode = "zh-Hans"
+title = "Kerry的博客"
+theme = "ananke"
